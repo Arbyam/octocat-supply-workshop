@@ -1,5 +1,9 @@
 # 🚀 OctoCAT Supply: The Ultimate GitHub Copilot Demo v3.7.0
 
+> [!IMPORTANT]
+> **🎓 Workshop attendees: start here → [WORKSHOP.md](./WORKSHOP.md)**
+> Click **Use this template** → **Create a new repository** to get your own copy, then follow the guide.
+
 ![OctoCAT Supply](./frontend/public/hero.png)
 
 Welcome to the OctoCAT Supply Website - your go-to demo for showcasing the incredible capabilities of GitHub Copilot, GHAS, and the power of AI-assisted development!
